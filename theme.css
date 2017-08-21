@@ -1,0 +1,15 @@
+body {
+  color: #FFFFFF;
+  background-color: #000000;
+  margin: 0px 20px 0px 20px;
+}
+
+@media screen and (max-device-width: 480px) {
+       body {
+	    font-size: 175%;
+       }
+}
+
+li {
+  margin-bottom: 8px;
+}
